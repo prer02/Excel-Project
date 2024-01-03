@@ -7,7 +7,7 @@ Welcome to the Bank Loan Summary project! This repository contains code and docu
 
 Project Description:
 
-# *Purpose*
+# *Purpose:*
 
 The purpose of this project is to analyze a bank's loan dataset and derive meaningful KPIs that can guide decision-making processes. By examining critical metrics such as Total Loan Applications, Total Fund Amount, Total Amount Received, and Average Interest Rate, the project aims to provide a comprehensive overview of the bank's loan portfolio.
 
