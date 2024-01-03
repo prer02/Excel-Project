@@ -27,7 +27,7 @@ I welcome contributions from the community! If you find any issues or have sugge
 
 
 
-# *Acknowledgments:*
+# *Acknowledgements:*
 
 Special thanks to the contributors and open-source community for their valuable input and support.
 
