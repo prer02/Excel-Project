@@ -1,17 +1,17 @@
 # Excel-Project
 Bank Loan Summary Project
 
-Overview
+Overview:
 
 Welcome to the Bank Loan Summary project! This repository contains code and documentation related to the analysis of a bank dataset, focusing on key performance indicators (KPIs) crucial for understanding and optimizing the bank's loan operations. The primary goal is to provide valuable insights that will aid the bank in making informed decisions to enhance profitability.
 
-Project Description
+Project Description:
 
 Purpose
 
 The purpose of this project is to analyze a bank's loan dataset and derive meaningful KPIs that can guide decision-making processes. By examining critical metrics such as Total Loan Applications, Total Fund Amount, Total Amount Received, and Average Interest Rate, the project aims to provide a comprehensive overview of the bank's loan portfolio.
 
-Key Features
+Key Features:
 
 Total Loan Applications: The count of all loan applications received by the bank, providing insight into the demand for loans.
 
@@ -27,7 +27,8 @@ I welcome contributions from the community! If you find any issues or have sugge
 
 
 
-Acknowledgments
+Acknowledgments:
+
 Special thanks to the contributors and open-source community for their valuable input and support.
 
 Thank you for your interest in the Bank Loan Summary project. We hope this analysis contributes to informed decision-making and the overall success of your banking operations!
