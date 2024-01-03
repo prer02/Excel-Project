@@ -31,4 +31,4 @@ Acknowledgments:
 
 Special thanks to the contributors and open-source community for their valuable input and support.
 
-Thank you for your interest in the Bank Loan Summary project. We hope this analysis contributes to informed decision-making and the overall success of your banking operations!
+Thank you for your interest in the Bank Loan Summary project. I hope this analysis contributes to informed decision-making and the overall success of your banking operations!
