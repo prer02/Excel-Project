@@ -5,7 +5,7 @@
 
 Welcome to the Bank Loan Summary project! This repository contains code and documentation related to the analysis of a bank dataset, focusing on key performance indicators (KPIs) crucial for understanding and optimizing the bank's loan operations. The primary goal is to provide valuable insights that will aid the bank in making informed decisions to enhance profitability.
 
-Project Description:
+## Project Description:
 
 # *Purpose:*
 
